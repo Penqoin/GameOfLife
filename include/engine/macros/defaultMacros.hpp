@@ -1,0 +1,2 @@
+#define DEFAULT_MACROS_HPP
+
